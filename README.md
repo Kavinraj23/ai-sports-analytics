@@ -16,8 +16,7 @@ Out of Scope:
 - Frontend UI
 
 Edge Cases:
-- Check if a player is a rookie and has played less than N games
-    - Rookie = First NBA Season
+- Check for insufficient data
     - Insufficient Data = < N games
 
 Tech Stack (initial):
